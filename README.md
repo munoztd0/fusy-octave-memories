@@ -1,1 +1,3 @@
 # fuusy-octave-memories
+
+Repositories for all my old matlab/octave helpers, RIP...
